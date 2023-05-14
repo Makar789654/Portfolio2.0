@@ -1,6 +1,5 @@
 import {
   mobile,
-  backend,
   creator,
   web,
   javascript,
@@ -8,21 +7,14 @@ import {
   html,
   css,
   reactjs,
-  redux,
   tailwind,
-  nodejs,
-  mongodb,
   git,
   figma,
-  docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
   carrent,
   jobit,
   tripguide,
   threejs,
+  netlify
 } from "../assets";
 
 export const navLinks = [
@@ -105,6 +97,7 @@ const projects = [
     ],
     image: carrent,
     source_code_link: "https://github.com/Makar789654/youtube-clon",
+    source_site_link: "https://roaring-zuccutto-520680.netlify.app/",
   },
   {
     name: "E-commerce site",
@@ -127,6 +120,7 @@ const projects = [
     ],
     image: jobit,
     source_code_link: "https://github.com/Makar789654/shop-on-react",
+    source_site_link: "https://chimerical-puppy-0e222e.netlify.app/",
   },
   {
     name: "First site",
@@ -140,6 +134,7 @@ const projects = [
     ],
     image: tripguide,
     source_code_link: "https://github.com/Makar789654/makar7879654.ex1.github.io",
+    source_site_link: "https://makar789654.github.io/makar7879654.ex1.github.io/",
   },
 ];
 
