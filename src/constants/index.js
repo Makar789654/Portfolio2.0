@@ -13,6 +13,7 @@ import {
   carrent,
   jobit,
   tripguide,
+  desktop,
   threejs,
   netlify
 } from "../assets";
@@ -125,16 +126,42 @@ const projects = [
   {
     name: "First site",
     description:
-      "A ",
+      "Build with HTML, CSS, JS ",
     tags: [
       {
         name: "css",
         color: "pink-text-gradient",
       },
+      {
+        name: "html",
+        color: "green-text-gradient",
+      },
     ],
     image: tripguide,
     source_code_link: "https://github.com/Makar789654/makar7879654.ex1.github.io",
     source_site_link: "https://makar789654.github.io/makar7879654.ex1.github.io/",
+  },
+  {
+    name: "Restaurant",
+    description:
+      "Restaurant",
+    tags: [
+      {
+        name: "js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "html",
+        color: "green-text-gradient",
+      },
+    ],
+    image: desktop,
+    source_code_link: "https://github.com/Makar789654/Restaurant",
+    source_site_link: "https://tourmaline-liger-022054.netlify.app/",
   },
 ];
 

@@ -7,7 +7,7 @@ import github from "./github.png";
 import netlify from "./netlify.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
-
+import desktop from "./desktop.png";
 import css from "./tech/css.png";
 // import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -49,4 +49,5 @@ export {
   jobit,
   tripguide,
   netlify,
+  desktop,
 };
